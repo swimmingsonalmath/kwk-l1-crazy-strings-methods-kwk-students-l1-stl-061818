@@ -1,5 +1,9 @@
 # write your method here
 
-def crazy_strings("Hello","Friends")
-puts "crazy_strings.upcase"
+def crazy_strings(a,b)
+  a== "Hello"
+  b == "Friends"
+  
 end
+ a.reverse.upcase
+ b.swapcase{s,z}
