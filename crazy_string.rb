@@ -2,7 +2,7 @@
 
 def crazy_strings
 puts "Hello".upcase
-puts "Friends".gsub('z','s')
+puts "Friends".gsub('s','z')
 end
 
 crazy_strings
