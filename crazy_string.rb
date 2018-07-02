@@ -2,7 +2,7 @@
 
 def crazy_strings
 puts "Hello".upcase.reverse
-puts "Friends".gsub('z','s').swapcase
+puts "Friends".gsub('s','z').swapcase
 end
 
 crazy_strings
