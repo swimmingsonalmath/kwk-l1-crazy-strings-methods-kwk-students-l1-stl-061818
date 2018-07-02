@@ -2,7 +2,7 @@
 
 def crazy_strings
 puts "Hello".upcase.reverse
-puts
+puts "Freinds"
 end
 
 crazy_strings
