@@ -3,3 +3,5 @@
 def crazy_strings' ("Hello","Friends")'
 puts "Hello".upcase
 end
+
+crazy_strings
