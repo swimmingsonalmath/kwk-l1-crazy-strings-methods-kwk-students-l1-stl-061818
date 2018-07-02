@@ -6,4 +6,4 @@ def crazy_strings(a,b)
   
 end
  a.reverse.upcase
- b.swapcase{s,z}
+ b.swapcase(s,z)
